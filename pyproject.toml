@@ -1,0 +1,12 @@
+[project]
+name = "bus-charging-scheduler"
+version = "0.1.0"
+description = "Streamlit electric bus charging scheduler for route scenarios."
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.32.0",
+    "pandas>=2.0.0",
+]
+
+[tool.setuptools]
+packages = ["scheduler"]
