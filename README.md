@@ -2,7 +2,7 @@
 
 A production-style scheduling system for electric buses on the Bengaluru–Kochi corridor, built with Python + Streamlit.
 
-**Live app:** _(deploy to Streamlit Community Cloud and paste link here)_
+**Live app:** _https://bus-charging-scheduler-cpwqefu3nbmoncda4x8hwt.streamlit.app/_
 
 ---
 
